@@ -1,1 +1,3 @@
 hai this is expence tracker
+thid expence tracker can be used to track a expence
+
